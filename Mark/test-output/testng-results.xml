@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-04T16:26:36 IST" name="Default suite" finished-at="2024-05-04T16:26:53 IST" duration-ms="16852">
+    <groups>
+    </groups>
+    <test started-at="2024-05-04T16:26:36 IST" name="Default test" finished-at="2024-05-04T16:26:53 IST" duration-ms="16852">
+      <class name="TestScript.ApprarelsTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:36 IST" name="bs" finished-at="2024-05-04T16:26:36 IST" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:36 IST" name="bt" finished-at="2024-05-04T16:26:36 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:36 IST" name="bc" finished-at="2024-05-04T16:26:47 IST" duration-ms="10721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="login(java.lang.reflect.Method)[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:47 IST" name="login" finished-at="2024-05-04T16:26:50 IST" duration-ms="2710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestScript.ApprarelsTest.apparel_001()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="apparel_001()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:50 IST" name="apparel_001" finished-at="2024-05-04T16:26:52 IST" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apparel_001 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:52 IST" name="logout" finished-at="2024-05-04T16:26:53 IST" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:53 IST" name="ac" finished-at="2024-05-04T16:26:53 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:53 IST" name="at" finished-at="2024-05-04T16:26:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:TestScript.ApprarelsTest@6b2ea799]" started-at="2024-05-04T16:26:53 IST" name="as" finished-at="2024-05-04T16:26:53 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- TestScript.ApprarelsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
